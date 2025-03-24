@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-15T02:16:24 IST" name="Default Suite" finished-at="2025-02-15T02:16:57 IST" duration-ms="33665">
+    <groups>
+    </groups>
+    <test started-at="2025-02-15T02:16:24 IST" name="gui-test-pom" finished-at="2025-02-15T02:16:57 IST" duration-ms="33665">
+      <class name="com.guru99.demo.RegisterUserTest1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.demo.RegisterUserTest1@197d671]" started-at="2025-02-15T02:16:24 IST" name="setUp" finished-at="2025-02-15T02:16:48 IST" duration-ms="23825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRegisterUser()[pri:0, instance:com.guru99.demo.RegisterUserTest1@197d671]" started-at="2025-02-15T02:16:48 IST" name="testRegisterUser" finished-at="2025-02-15T02:16:56 IST" duration-ms="8656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.demo.RegisterUserTest1@197d671]" started-at="2025-02-15T02:16:56 IST" name="tearDown" finished-at="2025-02-15T02:16:57 IST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.demo.RegisterUserTest1 -->
+    </test> <!-- gui-test-pom -->
+  </suite> <!-- Default Suite -->
+</testng-results>
